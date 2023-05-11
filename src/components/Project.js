@@ -7,7 +7,7 @@ const Project = () => {
     <div id="Projects">
       <section className="my-28 px-5" id="projects">
         <header className="text-2xl font-bold pt-10">
-          <h2>Projects</h2>
+          <h2>Projetos</h2>
         </header>
         <div className="my-7 space-y-24">
           {projects.map((project, index) => (
@@ -40,7 +40,7 @@ const Project = () => {
       </section>
       <div className="mx-5">
         <a href={`https://github.com/${GITHUB_USERNAME}`} target="_blank" rel="noreferrer" className="bg-gray block shadow-lg uppercase border border-gray-500 rounded-lg text-center my-12 p-2 max-w-xs m-auto">
-          <span>See more on Github</span>
+          <span>Veja mais no Github</span>
         </a>
       </div>
     </div>

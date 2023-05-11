@@ -6,7 +6,7 @@ const Skill = () => {
     <div id="Skill">
       <section className="my-28  px-5">
         <header className="text-2xl font-bold pt-10 mb-5">
-          <h2>Skills & Tools</h2>
+          <h2>Habilidades e Ferramentas</h2>
         </header>
         {Skills?.length > 0 &&
           <div className="pl-3">

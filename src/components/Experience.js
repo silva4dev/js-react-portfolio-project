@@ -6,7 +6,7 @@ function Experience() {
         <div id="Experience">
             <section className="my-28 px-5" id="projects">
                 <header className="text-2xl font-bold pt-10">
-                    <h2>Experience</h2>
+                    <h2>Experiências</h2>
                 </header>
                 <div className="main-cont">
                     <section id="cd-timeline" className="cd-container">
