@@ -2,7 +2,7 @@ const workHistory = [
     {
         companyName: "IMMERSIVE - Interatividade Digital",
         role: "Desenvolvedor Full Stack",
-        duration: "Feb 2022 – current",
+        duration: "Fev 2022 – atualmente",
         workDes: [
             "Desenvolvimento de novas funcionalidades e proposição de soluções e configurações para escalabilidade alta sistemas de disponibilidade, otimização de banco de dados",
             "Conteinerização em ambientes virtuais",
@@ -20,7 +20,7 @@ const workHistory = [
     {
         companyName: "Prefeitura Municipal de Nova Odessa",
         role: "Desenvolvedor Full Stack",
-        duration: "Jun 2019 – Aug 2021",
+        duration: "Julho 2019 – Agosto 2021",
         workDes: [
             "Desenvolvimento de software de gestão interna, incluindo áreas de logística, faturação, controlo de stocks, gestão de encomendas, controlo de lotes e integração com marketplaces, automação de tarefas",
             "Administração/repositórios de todos os projetos",
